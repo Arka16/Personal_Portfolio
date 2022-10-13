@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Personal_Portfolio/static/css/main.bc701924.css",
-    "main.js": "/Personal_Portfolio/static/js/main.e451aab2.js",
-    "static/js/787.a2cb61a6.chunk.js": "/Personal_Portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/gradpic.jpg": "/Personal_Portfolio/static/media/gradpic.87ec9aeb66dd438bf189.jpg",
-    "static/media/Arka_tennis.jpg": "/Personal_Portfolio/static/media/Arka_tennis.2974862e7e08b6b2ba4d.jpg",
-    "static/media/resume.pdf": "/Personal_Portfolio/static/media/resume.87c25033218d4fc6314e.pdf",
-    "static/media/logo-A.jpg": "/Personal_Portfolio/static/media/logo-A.137c2c0a453a6769cde0.jpg",
-    "static/media/wavestyled.png": "/Personal_Portfolio/static/media/wavestyled.b2d6fafa392a6279d69b.png",
-    "static/media/Arka_guitar.jpg": "/Personal_Portfolio/static/media/Arka_guitar.3218f3ab40616ddbabde.jpg",
-    "static/media/workout.jpg": "/Personal_Portfolio/static/media/workout.d6d7c287789c847f005e.jpg",
-    "static/media/bitcoin.png": "/Personal_Portfolio/static/media/bitcoin.8dade9ed87416e9d848a.png",
-    "static/media/helvetica-neu.ttf": "/Personal_Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff": "/Personal_Portfolio/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
-    "static/media/LaBelleAurore.woff2": "/Personal_Portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/kvs.jpg": "/Personal_Portfolio/static/media/kvs.f723826c033b2a3e6df1.jpg",
-    "static/media/CoolveticaRg-Regular.woff": "/Personal_Portfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
-    "static/media/CoolveticaRg-Regular.woff2": "/Personal_Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/Personal_Portfolio/index.html",
-    "main.bc701924.css.map": "/Personal_Portfolio/static/css/main.bc701924.css.map",
-    "main.e451aab2.js.map": "/Personal_Portfolio/static/js/main.e451aab2.js.map",
-    "787.a2cb61a6.chunk.js.map": "/Personal_Portfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/Personal_Portfolio/about/static/css/main.54da83ea.css",
+    "main.js": "/Personal_Portfolio/about/static/js/main.e00aa04b.js",
+    "static/js/787.a2cb61a6.chunk.js": "/Personal_Portfolio/about/static/js/787.a2cb61a6.chunk.js",
+    "static/media/gradpic.jpg": "/Personal_Portfolio/about/static/media/gradpic.87ec9aeb66dd438bf189.jpg",
+    "static/media/Arka_tennis.jpg": "/Personal_Portfolio/about/static/media/Arka_tennis.2974862e7e08b6b2ba4d.jpg",
+    "static/media/resume.pdf": "/Personal_Portfolio/about/static/media/resume.87c25033218d4fc6314e.pdf",
+    "static/media/logo-A.jpg": "/Personal_Portfolio/about/static/media/logo-A.137c2c0a453a6769cde0.jpg",
+    "static/media/wavestyled.png": "/Personal_Portfolio/about/static/media/wavestyled.b2d6fafa392a6279d69b.png",
+    "static/media/Arka_guitar.jpg": "/Personal_Portfolio/about/static/media/Arka_guitar.3218f3ab40616ddbabde.jpg",
+    "static/media/workout.jpg": "/Personal_Portfolio/about/static/media/workout.d6d7c287789c847f005e.jpg",
+    "static/media/bitcoin.png": "/Personal_Portfolio/about/static/media/bitcoin.8dade9ed87416e9d848a.png",
+    "static/media/helvetica-neu.ttf": "/Personal_Portfolio/about/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/Personal_Portfolio/about/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/Personal_Portfolio/about/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/kvs.jpg": "/Personal_Portfolio/about/static/media/kvs.f723826c033b2a3e6df1.jpg",
+    "static/media/CoolveticaRg-Regular.woff": "/Personal_Portfolio/about/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/Personal_Portfolio/about/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/Personal_Portfolio/about/index.html",
+    "main.54da83ea.css.map": "/Personal_Portfolio/about/static/css/main.54da83ea.css.map",
+    "main.e00aa04b.js.map": "/Personal_Portfolio/about/static/js/main.e00aa04b.js.map",
+    "787.a2cb61a6.chunk.js.map": "/Personal_Portfolio/about/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc701924.css",
-    "static/js/main.e451aab2.js"
+    "static/css/main.54da83ea.css",
+    "static/js/main.e00aa04b.js"
   ]
 }
