@@ -6,6 +6,7 @@
     transform: translateY(-50%);
     width: 40%;
     max-height: 90%;
+   
   }
 
   h1 {
@@ -87,4 +88,17 @@ h2 {
   font-family: sans-serif;
   letter-spacing: 3px;
   animation: fadeIn 1s 1.8s backwards;
+}
+
+.btn{
+  display: block;
+    width: 115px;
+    height: 25px;
+    background: #4E9CAF;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
 }
